@@ -1,5 +1,5 @@
 # Concepção do Projeto
 
-Como projeto da disciplina é proposto realizar a automação residencial, a planta baixa se encontra abaixo:
+O objetivo do projeto é realizar a automação residencial da planta baixa a seguir:
 
 ![Planta baixa](./figuras/plantabaixa.PNG)
