@@ -7,3 +7,7 @@ _____
 
 * intro
 * concep
+
+Autoria de Maitê Luisa da Silva.
+
+____
