@@ -1,4 +1,4 @@
-!(https://github.com/maiteluisaa/projeto_pi2/blob/main/figuras/logo_ifsc.png)
+!(./figuras/logo_ifsc.png)
 
 # Projeto Integrador II
 
