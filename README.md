@@ -1,4 +1,4 @@
-!(./figuras/logo_ifsc.png)
+![(./figuras/logo_ifsc.png)]
 
 # Projeto Integrador II
 
