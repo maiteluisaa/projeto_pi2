@@ -11,4 +11,5 @@ Atualmente a domótica está em alta por conta dos avanços das tecnologias, o q
 Referências:
 
 https://educa.ibge.gov.br/jovens/conheca-o-brasil/populacao/18318-piramide-etaria.html
+
 https://pt.wikipedia.org/wiki/Dom%C3%B3tica
