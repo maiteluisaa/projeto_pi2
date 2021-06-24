@@ -6,7 +6,7 @@ Quando se fala em automatização residencial, não é diferente, é sobre confo
 
 Por definição, a automatização residencial, vulgo domótica, é o conjunto das técnicas e dos estudos que tem como objetivo integrar e automatizar no ambiente residencial todos os sistemas em matéria de segurança, de gestão de energia, de comunicação e etc. 
 
-A projeção para o futuro do Brasil é o crescimento da população idosa, este é o público que mais aproveita os benefícios da automatização residencial.
+A projeção para o futuro do Brasil é o crescimento da população idosa, e este é o público que mais aproveita os benefícios da automatização residencial.
 
 ![](./figuras/projecao.png)
 
