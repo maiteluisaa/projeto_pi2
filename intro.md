@@ -4,6 +4,8 @@ Pensando de maneira crua, a automatização de processos não é necessária, os
 
 Quando se fala em automatização residencial, não é diferente, é sobre conforto, praticidade e segurança para o usuário final. E dependendo do usuário final, a necessidade dela se torna uma realidade.
 
+![](.figuras/projecao.PNG)
+
 Nos últimos anos tem se falado muito sobre domótica/automação residencial, por conta das novas tecnologias como a Alexa e o Google Home. Porém, o termo surgiu na década de 80 com os primeiros edifícios, na França, pretendia-se realizar a automação e integração dos sistemas que compõe o ambiente residencial.
 
 Por definição a domótica é o conjunto das técnicas e dos estudos que tem como objetivo integrar e automatizar no ambiente residencial todos os sistemas em matéria de segurança, de gestão de energia, de comunicação e etc. 
