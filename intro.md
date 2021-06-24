@@ -1,4 +1,4 @@
-# Domótica
+# Domótica - Automatização Residencial
 
 Pensando de maneira crua, a automatização de processos não é necessária, os processos continuariam sendo realizados sem a mesma, porém de maneira mais custosa e menos otimizada. Porém, em certas situações, não automatizar processos é impraticável.
 
