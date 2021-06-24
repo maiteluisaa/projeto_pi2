@@ -12,7 +12,7 @@ A projeção para o futuro do Brasil é o crescimento da população idosa, e es
 
 Nos últimos anos tem se falado muito sobre automatização residencial, isso se deve as novas tecnologias, como a Alexa e o Google Home. Porém, o termo surgiu na década de 80 com os primeiros edifícios, na França, pretendia-se realizar a automação e integração dos sistemas que compõe o ambiente residencial. Mas os custos eram muito altos, o que tornava a automatização um artigo de luxo.
 
-Com o avanço das tecnologias e barateamento das mesmas, a automatização residencial se tornou mais acessível e praticável.
+Com o avanço das tecnologias e barateamento das mesmas, os projetos que envolvem a automatização residencial se tornaram mais acessíveis e praticáveis.
 
 Referências:
 
