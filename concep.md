@@ -1,6 +1,6 @@
 # Concepção do Projeto
 
-A premissa do projeto é construir um protótipo de uma residência automatizada, para que os conceitos de domótica sejam aplicados. Dessa maneira, é possível visualizar seus efeitos e o processo de projeto e produção.
+A premissa do projeto é construir um protótipo de uma residência automatizada, para que os conceitos de domótica sejam aplicados.
 
 Esta é a planta baixa da residência:
 ![Planta baixa](./figuras/plantabaixa.PNG)
@@ -19,9 +19,9 @@ Esta é a planta baixa da residência:
 
 * Objetivos:
 
-1. Realizar o controle da iluminação dos cômodos, com o intuito de economizar energia.
-2. Sensor de presença para o jardim.
-3. Sensor de gás na cozinha, evitando acidentes domésticos.
+1. Realizar o controle da iluminação dos cômodos, com o intuito de economizar energia. (Controle dos LEDs)
+2. Sensor de presença para o jardim, com o intuito de economizar energia e também acrescentando aspectos de segurança ao projeto.
+3. Sensor de gás na cozinha, para evitar acidentes domésticos - acionando um buzzer para servir como alarme para as pessoas e o cooler, que simula um exaustor, para retirar o gás inflamável do ambiente o mais rápido possível.
 4. Servomotor para controle de acesso à residência.
 5. Realizar tudo de maneira remota.
 
