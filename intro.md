@@ -16,6 +16,6 @@ Com o avanço das tecnologias e barateamento das mesmas, os projetos que envolve
 
 Referências:
 
-PIRÂMIDE ETÁRIA, IBGE Educa, 2019. Disponível em: <https://educa.ibge.gov.br/jovens/conheca-o-brasil/populacao/18318-piramide-etaria.html>. Acesso em: 16 jun. 2021.
-
 DOMÓTICA, Wikipédia, a enciclopédia livre, 2021. Disponível em: <https://pt.wikipedia.org/wiki/Dom%C3%B3tica>. Acesso em: 10 jun. 2021.
+
+PIRÂMIDE ETÁRIA, IBGE Educa, 2019. Disponível em: <https://educa.ibge.gov.br/jovens/conheca-o-brasil/populacao/18318-piramide-etaria.html>. Acesso em: 16 jun. 2021.
