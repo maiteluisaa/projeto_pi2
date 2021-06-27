@@ -1,6 +1,6 @@
 # Concepção do Projeto
 
-A premissa do projeto é construir um protótipo de uma residência automatizada, para que os conceitos de domótica sejam aplicados.
+A premissa do projeto é construir o protótipo de uma residência automatizada, para que os conceitos de domótica sejam aplicados.
 
 Esta é a planta baixa da residência:
 ![Planta baixa](./figuras/plantabaixa.PNG)
