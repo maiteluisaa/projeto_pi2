@@ -14,7 +14,7 @@ Na figura abaixo está o esboço do projeto, todos os componentes são necessár
 - 1 Sensor PIR
 - 1 Arduino Mega 2560
 
-A princípio o cumprimento do requisito de realizar os comandos de maneira remota será feito de maneira usb, porém estuda-se o caso para saber se é possível realizar o desenvolvimento de um app para fazer a comunicação via bluetooth, dessa maneira a lista de materiais seria acrescentada com:
+A princípio o cumprimento do requisito de realizar os comandos de maneira remota será feito de maneira usb, porém estuda-se o caso para saber se é viável desenvolver um app para fazer a comunicação via bluetooth, dessa maneira a lista de materiais seria acrescentada com o seguinte item:
 
 - 1 Módulo bluetooth HC-05
 
