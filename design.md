@@ -1,6 +1,6 @@
 # Design de Projeto
 
-![Esquemático desenhado no Fritizing](./figuras/fritz.PNG)
+![Esquemático](./figuras/fritz.PNG)
 
 Lista de Materiais:
 
