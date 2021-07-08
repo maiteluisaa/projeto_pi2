@@ -2,7 +2,7 @@
 
 Na figura abaixo está o esboço do projeto, todos os componentes são necessários para cumprir os requisitos listados na [Concepção do Projeto](https://github.com/maiteluisaa/projeto_pi2/blob/main/concep.md).
 
-![](./figuras/fritz.PNG)
+![](./figuras/semhc.PNG)
 
 **Lista de Materiais:**
 
@@ -18,4 +18,4 @@ A princípio o cumprimento do requisito de realizar os comandos de maneira remot
 
 - 1 Módulo bluetooth HC-05
 
-![](./figuras/comhc.PNG)
+![](./figuras/comhcc.PNG)
