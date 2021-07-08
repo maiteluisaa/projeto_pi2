@@ -1,5 +1,7 @@
 # Design de Projeto
 
+![Esquemático desenhado no Fritizing](./figuras/fritz.PNG)
+
 Lista de Materiais:
 
 - 5 LEDS
