@@ -1,6 +1,7 @@
 # Design de Projeto
 
-![Esquematico](./figuras/fritz.PNG)
+Na figura abaixo está o esboço do projeto, todos os componentes são necessários para cumprir os requisitos listados na concepção de projeto.
+![Esquemático](./figuras/fritz.PNG)
 
 Lista de Materiais Utilizados:
 
