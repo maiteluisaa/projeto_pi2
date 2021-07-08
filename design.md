@@ -1,7 +1,8 @@
 # Design de Projeto
 
-Na figura abaixo está o esboço do projeto, todos os componentes são necessários para cumprir os requisitos listados na concepção de projeto.
-![Esquemático](./figuras/fritz.PNG)
+Na figura abaixo está o esboço do projeto, todos os componentes são necessários para cumprir os requisitos listados na * [Concepção do Projeto](https://github.com/maiteluisaa/projeto_pi2/blob/main/concep.md).
+
+![](./figuras/fritz.PNG)
 
 Lista de Materiais Utilizados:
 
