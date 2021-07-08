@@ -1,6 +1,6 @@
 # Design de Projeto
 
-# Lista de Materiais:
+* Lista de Materiais:
 
 - 5 LEDS
 - 1 Cooler
