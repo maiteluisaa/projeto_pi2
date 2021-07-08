@@ -4,7 +4,7 @@ Na figura abaixo está o esboço do projeto, todos os componentes são necessár
 
 ![](./figuras/fritz.PNG)
 
-Lista de Materiais Utilizados:
+**Lista de Materiais:**
 
 - 5 LEDS
 - 1 Cooler
@@ -17,3 +17,5 @@ Lista de Materiais Utilizados:
 A princípio o cumprimento do requisito de realizar os comandos de maneira remota será feito de maneira usb, porém estuda-se o caso para saber se é possível realizar o desenvolvimento de um app para fazer a comunicação via bluetooth, dessa maneira a lista de materiais seria acrescentada com:
 
 - 1 Módulo bluetooth HC-05
+
+![](./figuras/comhc.PNG)
