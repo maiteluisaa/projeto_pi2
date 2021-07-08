@@ -14,6 +14,6 @@ Lista de Materiais Utilizados:
 - 1 Sensor PIR
 - 1 Arduino Mega 2560
 
-A princípio o cumprimento do requisito de realizar os comandos de maneira remota será via usb, porém estuda-se o caso para desenvolvimento de app para fazer a comunicação via bluetooth:
+A princípio o cumprimento do requisito de realizar os comandos de maneira remota será feito de maneira usb, porém estuda-se o caso para saber se é possível realizar o desenvolvimento de um app para fazer a comunicação via bluetooth, dessa maneira a lista de materiais seria acrescentada com:
 
 - 1 Módulo bluetooth HC-05
