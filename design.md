@@ -6,7 +6,7 @@ Na figura abaixo está o esboço do projeto, todos os componentes são necessár
 
 **Lista de Materiais:**
 
-- 6 LEDS
+- 6 LEDS brancos
 - 1 Micro cooler (5V)
 - 1 Sensor MQ-2
 - 1 Buzzer (KY-012)
