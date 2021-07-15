@@ -2,7 +2,7 @@
 
 Na figura abaixo está a maquete eletrônica do projeto, todos os componentes são necessários para cumprir os requisitos listados na [Concepção do Projeto](https://github.com/maiteluisaa/projeto_pi2/blob/main/concep.md).
 
-![](./figuras/maqueteln.PNG)
+![](./figuras/fritzz.PNG)
 
 **Lista de Materiais:**
 
