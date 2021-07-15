@@ -6,12 +6,13 @@ Na figura abaixo está a maquete eletrônica do projeto, todos os componentes s�
 
 **Lista de Materiais:**
 
-- 6 LEDS brancos
+- 7 LEDS brancos
 - 1 Micro cooler (5V)
 - 1 Sensor MQ-2
 - 1 Buzzer (KY-012)
 - 1 Servomotor (SG90)
 - 1 Sensor PIR
 - 1 Arduino Mega 2560
-- 6 Resistores de 220Ω
+- 7 Resistores de 390Ω
+- 1 resistor de 1kΩ
 - 1 Protoboard
