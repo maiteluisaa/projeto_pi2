@@ -14,5 +14,5 @@ Na figura abaixo está a maquete eletrônica do projeto, todos os componentes s�
 - 1 Sensor PIR
 - 1 Arduino Mega 2560
 - 7 Resistores de 390Ω
-- 1 resistor de 1kΩ
+- 1 Resistor de 1kΩ
 - 1 Protoboard
