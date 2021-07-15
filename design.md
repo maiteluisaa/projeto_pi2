@@ -6,7 +6,7 @@ Na figura abaixo está a maquete eletrônica do projeto, todos os componentes s�
 
 **Lista de Materiais:**
 
-- 7 LEDS brancos
+- 7 LEDS
 - 1 Micro cooler (5V - 0.2A)
 - 1 Sensor MQ-2
 - 1 Buzzer (KY-012)
