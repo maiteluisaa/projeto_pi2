@@ -6,7 +6,7 @@ Acesso rápido:
   - [Implementação](./implementacao.md)
   - [Operação](./operacao.md)
 
-Domótica, etimologicamente vem da junção da palavra latina *Domus*, que significa "Casa", e robótica. Ou seja, por definição a domótica é o estudo das técnicas de integração e automatização de sistemas residenciais, como energia, segurança, comunicação e etc.
+Domótica, etimologicamente vem da junção da palavra latina *Domus*, que significa "Casa", com a palavra robótica. Ou seja, por definição a domótica é o estudo das técnicas de integração e automatização de sistemas residenciais, como energia, segurança, comunicação e etc.
 
 - Assunto
 - Importância
