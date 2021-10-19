@@ -1,17 +1,4 @@
-![](./figuras/logo_ifsc.png)
-
-# Projeto Integrador II - Domótica
-
-Repositório destinado à disciplina de Projeto Integrador 2 do curso de Engenharia Eletrônica do IFSC.
-_____
-
-* [Introdução do Projeto](https://github.com/maiteluisaa/projeto_pi2/blob/main/intro.md)
-* [Concepção do Projeto](https://github.com/maiteluisaa/projeto_pi2/blob/main/concep.md)
-____
-
-Autoria de Maitê Luisa da Silva.
-
-# Automação Residencial -- Projeto Integrador II
+# Domótica -- Projeto Integrador II
 
 Acesso rápido:
   - [Concepção](./concepcao.md)
@@ -19,7 +6,7 @@ Acesso rápido:
   - [Implementação](./implementacao.md)
   - [Operação](./operacao.md)
 
-Elaborar aqui a _introdução_ do projeto. Como exemplo, sugere-se contemplar:
+Domótica, etimologicamente vem da junção da palavra latina *Domus*, que significa "Casa", e robótica. Ou seja, por definição a domótica é o estudo das técnicas de integração e automatização de sistemas residenciais, como energia, segurança, comunicação e etc.
 
 - Assunto
 - Importância
