@@ -17,7 +17,7 @@ Esta é a planta baixa da residência:
 
 5. Micro Servo SG92R 9g TowerPro
 
-6. Módulo Sensor de Umidade/Nível Água Chuva
+6. Módulo Sensor de Umidade/Nível de Água da Chuva
 
 7. Módulo Relé 5 V e um Canal
 
@@ -37,7 +37,7 @@ Esta é a planta baixa da residência:
 
 3. Sensor de presença na área externa.
 
-4. Sensor de Temperatura e Sensor de Nível Água Chuva no jardim. 
+4. Sensor de Temperatura e Sensor de Nível de Água da Chuva no jardim. 
 
 4. Sensor de gás na cozinha.
 
