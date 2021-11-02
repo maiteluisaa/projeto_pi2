@@ -5,6 +5,30 @@ A premissa do projeto é construir o protótipo de uma residência automatizada,
 Esta é a planta baixa da residência:
 ![Planta baixa](./figuras/NOVAplantabaixa.png)
 
+* Tecnologias do Projeto:
+
+1. Placa MEGA 2560 R3 + Fonte + Cabo USB para Arduino
+
+2. Sensor de Umidade e Temperatura DHT11
+
+3. Sensor de presença e movimento PIR
+
+4. Sensor de gás MQ-2 inflamável e fumaça
+
+5. Micro Servo SG92R 9g TowerPro
+
+6. Módulo Sensor de Umidade/Nível Água Chuva
+
+7. Módulo Relé 5 V e um Canal
+
+8. Sensor ultrasônico HC-SR04
+
+9. Módulo Matriz de LED 8×8 com MAX7219
+
+10. Buzzer passivo
+
+11. Display LCD 16×2 I2C Backlight Azul
+
 * Requisitos:
 
 1. Controlar a iluminação dos cômodos.
