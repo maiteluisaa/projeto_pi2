@@ -43,7 +43,7 @@ Esta é a planta baixa da residência:
 
 * Objetivos:
 
-1. Realizar o controle da iluminação dos cômodos, com o intuito de economizar energia. (Controle dos LEDs)
+1. Realizar o controle da iluminação dos cômodos, com o intuito de economizar energia. (Controle da matriz de LEDs)
 2. Sensor de presença para o jardim, com o intuito de economizar energia e também acrescentando aspectos de segurança ao projeto.
 3. Sensor de gás na cozinha, para evitar acidentes domésticos - (depois de um certo nível de gás no ambiente, acionar um buzzer para servir como alarme para as pessoas e um cooler, que simula um exaustor, para retirar o gás inflamável do ambiente o mais rápido possível).
 4. Servomotor para controle de acesso à residência (portão eletrônico).
