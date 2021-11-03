@@ -28,7 +28,7 @@ Esta é a planta baixa da residência:
 
 1. Realizar o controle de iluminação dos cômodos, com o intuito de economizar energia. (Controle da matriz de LEDs via PC).
 2. Utilizar o Sensor de Presença PIR para a área externa, com o intuito de implementar um sistema de alarme junto ao buzzer. (Habilitação do alarme via PC).
-3. Utilizar o Sensor de Gás MQ-2 na cozinha, para evitar acidentes domésticos. (Depois de um certo nível de gás no ambiente, acionar um cooler que irá simular um exaustor, será necessário utilizar o módulo relé para acionar o cooler).
+3. Utilizar o Sensor de Gás MQ-2 na cozinha, para evitar acidentes domésticos. (Depois de um certo nível de gás no ambiente, acionar um cooler que irá simular um exaustor).
 4. Realizar o controle de acesso à residência, controle do portão eletrônico via PC (utilização do servomotor).
 5. Utilizar o Sensor de Temperatura e o Sensor de Nível da Água da Chuva para controle do sistema de irrigação do jardim.
 6. Utilizar o LCD para visualização de dados. (Nível de gás, umidade, temperatura e etc).
