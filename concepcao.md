@@ -26,7 +26,7 @@ Esta é a planta baixa da residência:
 
 * Objetivos:
 
-1. Realizar o controle de iluminação dos cômodos, com o intuito de economizar energia. (Controle da matriz de LEDs via PC).
+1. Realizar o controle de iluminação dos cômodos, com o intuito de economizar energia. (Controle de LEDs via PC).
 2. Utilizar o Sensor de Presença PIR para a área externa, com o intuito de implementar um sistema de alarme junto ao buzzer. (Habilitação do alarme via PC).
 3. Utilizar o Sensor de Gás MQ-2 na cozinha, para evitar acidentes domésticos. (Depois de um certo nível de gás no ambiente, acionar um cooler que irá simular um exaustor).
 4. Realizar o controle de acesso à residência, controle do portão eletrônico via PC (utilização do servomotor).
