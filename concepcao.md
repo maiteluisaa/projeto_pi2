@@ -14,24 +14,25 @@ Esta é a planta baixa da residência:
 
 1. Controlar a iluminação dos cômodos.
 
-2. Controle da Matriz de LEDs de forma remota (com o PC).
+2. Portão eletrônico.
 
-3. Sensor de presença na área externa.
+3. Sistema de segurança na área externa.
 
-4. Sensor de Temperatura e Sensor de Nível de Água da Chuva no jardim. 
+4. Realizar o controle de irrigação do jardim. 
 
-4. Sensor de gás na cozinha.
+4. Sistema de prevenção a acidentes com gás de cozinha.
 
-5. Portão eletrônico.
+5. Realizar todos os controles de maneira remota.
 
 * Objetivos:
 
-1. Realizar o controle da iluminação dos cômodos, com o intuito de economizar energia. (Controle da matriz de LEDs)
-2. Sensor de presença para a área externa, com o intuito de economizar energia com a iluminação e também acrescentando aspectos de segurança ao projeto.
-3. Sensor de gás na cozinha, para evitar acidentes domésticos - (depois de um certo nível de gás no ambiente, acionar um buzzer para servir como alarme para as pessoas e acionar um cooler que irá simular um exaustor, será necessário utilizar o módulo relé para acionar o cooler).
-4. Controle de acesso à residência, portão eletrônico (utilização do servomotor).
-5. Sensor de Temperatura e Sensor de Nível Água Chuva para controle do sistema de irrigação do jardim.
-6. Realizar os controles de maneira remota.
+1. Realizar o controle da iluminação dos cômodos, com o intuito de economizar energia. (Controle da matriz de LEDs).
+2. Utilizar o Sensor de Presença PIR para a área externa, com o intuito de economizar energia com a iluminação e também acrescentando aspectos de segurança ao projeto.
+3. Utilizar o Sensor de Gás MQ-2 na cozinha, para evitar acidentes domésticos - (depois de um certo nível de gás no ambiente, acionar um buzzer para servir como alarme para as pessoas e acionar um cooler que irá simular um exaustor, será necessário utilizar o módulo relé para acionar o cooler).
+4. Realizar o controle de acesso à residência, portão eletrônico (utilização do servomotor).
+5. Utilizar o Sensor de Temperatura e o Sensor de Nível da Água da Chuva para controle do sistema de irrigação do jardim.
+6. Utilizar o LCD para visualização de dados.
+7. Realizar os controles de maneira remota (utilizando o PC).
 
 
 
