@@ -7,7 +7,7 @@ Esta é a planta baixa da residência:
 
 * Tecnologias do Projeto:
 
-![Tecnologias do Projeto](./figuras/tecnologias.png)
+![Tecnologias do Projeto](./figuras/tecnologia.png)
 
 
 * Requisitos:
