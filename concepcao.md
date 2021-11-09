@@ -7,21 +7,21 @@ A premissa do projeto é construir o protótipo de uma residência automatizada,
 ![Tecnologias do Projeto](./figuras/tecnologia.png)
 
 
-* Requisitos:
+### Requisitos:
 
-1. Realizar o controle de acesso à residência.
+##### 1. Realizar o controle de acesso à residência.
 
 ![](./figuras/fluxograma.png)
 
-2. Realizar o controle de irrigação do jardim. 
+##### 2. Realizar o controle de irrigação do jardim. 
 
 ![](./figuras/fluxogramajardim.png)
 
-4. Sistema de prevenção a acidentes com gás de cozinha.
+##### 4. Sistema de prevenção a acidentes com gás de cozinha.
 
 ![](./figuras/fluxograma_cozinha.png)
 
-5. Realizar todos os controles de maneira remota.
+##### 5. Realizar todos os controles de maneira remota.
 
 
 
