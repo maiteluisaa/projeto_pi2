@@ -1,4 +1,4 @@
-# Domótica -- Projeto Integrador II
+# Domótica - Projeto Integrador II
 
 A palavra domótica, etimologicamente, vem da junção da palavra latina *Domus*, que significa "Casa", com a palavra robótica. Por definição, a domótica é o estudo das técnicas de integração e automatização de sistemas residenciais, como gestão de energia, segurança, comunicação e etc. 
 
