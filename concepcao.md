@@ -24,8 +24,6 @@ A premissa do projeto é construir o protótipo de uma residência automatizada,
 
 ### Tecnologias do Projeto:
 
-![Tecnologias do Projeto](./figuras/tecnologia.png)
-
 | Tecnologias do Projeto  |
 | ------------------- |
 | Placa MEGA 2560 R3 + Fonte + Cabo USB para Arduino |
