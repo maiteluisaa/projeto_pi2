@@ -2,9 +2,6 @@
 
 A premissa do projeto é construir o protótipo de uma residência automatizada, para que os conceitos de domótica sejam aplicados.
 
-Esta é a planta baixa da residência:
-![Planta baixa](./figuras/NOVAplantabaixa.png)
-
 * Tecnologias do Projeto:
 
 ![Tecnologias do Projeto](./figuras/tecnologia.png)
