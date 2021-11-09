@@ -18,7 +18,7 @@ A premissa do projeto é construir o protótipo de uma residência automatizada,
 
 4. Apresentar os dados dos sensores no LCD.
 
-5. Utilizar o sensor de temperatura na área externa e exibir o valor na matriz de led.
+5. Utilizar o sensor de temperatura na área externa e exibir o valor da temperatura na matriz de led na área interna da residência.
 
 6. Realizar todos os controles de maneira remota.
 
