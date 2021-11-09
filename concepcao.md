@@ -21,7 +21,11 @@ A premissa do projeto é construir o protótipo de uma residência automatizada,
 
 ![](./figuras/fluxograma_cozinha.png)
 
-4. Realizar todos os controles de maneira remota.
+4. Apresentar os dados dos sensores no LCD.
+
+5. Utilizar o sensor de temperatura na área externa e exibir o valor na matriz de led.
+
+6. Realizar todos os controles de maneira remota.
 
 
 
