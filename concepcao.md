@@ -19,7 +19,7 @@ A premissa do projeto é construir o protótipo de uma residência automatizada,
 
 4. Sistema de prevenção a acidentes com gás de cozinha.
 
-![](./figuras/fluxogracozinha.png)
+![](./figuras/fluxogramacozinha.png)
 
 5. Realizar todos os controles de maneira remota.
 
