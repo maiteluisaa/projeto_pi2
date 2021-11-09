@@ -11,6 +11,8 @@ A premissa do projeto é construir o protótipo de uma residência automatizada,
 
 1. Realizar o controle de acesso à residência.
 
+![](./figuras/fluxograma.png)
+
 2. Sistema de segurança na área externa.
 
 3. Realizar o controle de irrigação do jardim. 
