@@ -39,7 +39,8 @@ A premissa do projeto é construir o protótipo de uma residência automatizada,
 | Módulo Matriz de LED 8×8 com MAX7219 |
 | Buzzer passivo |
 | Display LCD 16×2 I2C Backlight Azul |
-
+| Cooler |
+| Válvula solenóide ou Mini Bomba D'água Submersiva |
 
 
 
