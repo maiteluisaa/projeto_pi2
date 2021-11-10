@@ -2,7 +2,7 @@
 
 A premissa do projeto é construir o protótipo de uma residência automatizada, para que os conceitos de domótica sejam aplicados.
 
-### Requisitos:
+### Requisitos/Objetivos:
 
 1. Realizar o controle de acesso à residência.
 
