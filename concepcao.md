@@ -26,7 +26,7 @@ O projeto consiste na construção de um sistema residencial automatizado. Utili
 
 |  Componentes Eletrônicos                           | Quantidade |
 | -------------------------------------------------- | ---------- |
-| Placa MEGA 2560 R3 + Fonte + Cabo USB para Arduino |      1     |
+| Placa MEGA 2560 R3 + Fonte + Cabo USB para Arduino |     <div style="text-align: justify"> 1 </div>   |
 | Sensor de Umidade e Temperatura DHT11 |      1     |
 | Sensor de presença e movimento PIR |      1     |
 | Sensor de gás MQ-2 inflamável e fumaça |      1     |
