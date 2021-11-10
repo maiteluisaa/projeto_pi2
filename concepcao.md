@@ -4,15 +4,15 @@ O projeto consiste na construção de um sistema residencial automatizado. Utili
 
 ### Requisitos:
 
-1. Realizar o controle de acesso à residência, utilizando o sensor ultrasônico HC-SR04 e o sensor de presença PIR para identificar a presença de carros e pessoas, e utilizando o buzzer como campainha.
+1. Realizar o controle de acesso à residência, utilizando o sensor ultrasônico HC-SR04 e o sensor de presença PIR para identificar a presença de carros e pessoas, o buzzer será utilizado como campainha.
 
 ![](./figuras/fluxograma_areaexterna.png)
 
-2. Realizar o controle de irrigação do jardim, utilizando o sensor de umidade / nível da água da chuva para monitorar o solo, quando o solo estiver seco acionar a válvula solenóide.
+2. Realizar o controle de irrigação do jardim, utilizando o sensor de umidade / nível da água da chuva para monitorar o solo. Quando o solo estiver seco acionar a válvula solenóide.
 
 ![](./figuras/fluxograma_jardim.png)
 
-3. Realizar um sistema de prevenção a acidentes com gás de cozinha, utilizando o sensor de gás MQ-2, quando os nível de gás ultrapassar o nível aceitável acionar o exaustor, desligando o mesmo somente quando o nível voltar ao normal.
+3. Realizar um sistema de prevenção a acidentes com gás de cozinha, utilizando o sensor de gás MQ-2. Quando o nível de gás ultrapassar o nível aceitável acionar o exaustor, desligando o mesmo somente quando o nível voltar ao normal.
 
 ![](./figuras/fluxograma_cozinha.png)
 
