@@ -1,6 +1,6 @@
 # Concepção do Projeto
 
-O projeto consiste na construção de um sistema residencial automatizado. Utilizando tecnologias de baixo custo, buscando a acessibilidade à maior parte da população. 
+O projeto consiste na construção de um sistema residencial automatizado. Utilizando tecnologias de baixo custo, buscando a acessibilidade à maior parte da população. O projeto busca realizar o controle de acesso à residência, controle de irrigação do jardim, controle de temperatura da sala de estar e apresentar os dados de maneira simples para o usuário.
 
 ### Requisitos:
 
