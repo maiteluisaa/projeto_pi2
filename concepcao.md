@@ -1,18 +1,18 @@
 # Concepção do Projeto
 
-A premissa do projeto é construir o protótipo de uma residência automatizada, para que os conceitos de domótica sejam aplicados.
+O projeto consiste na construção de um sistema residencial automatizado. Utilizando tecnologias de baixo custo, buscando a acessibilidade a maior parte do público. 
 
 ### Requisitos:
 
-1. Realizar o controle de acesso à residência.
+1. Realizar o controle de acesso à residência, utilizando o sensor ultrasônico HC-SR04 e o sensor de presença PIR para identificar a presença de carros e pessoas, e utilizando o buzzer como campainha.
 
 ![](./figuras/fluxograma_areaexterna.png)
 
-2. Realizar o controle de irrigação do jardim. 
+2. Realizar o controle de irrigação do jardim, utilizando o sensor de umidade / nível da água da chuva para monitorar o solo, quando o solo estiver seco acionar a válvula solenóide.
 
 ![](./figuras/fluxograma_jardim.png)
 
-3. Sistema de prevenção a acidentes com gás de cozinha.
+3. Realizar um sistema de prevenção a acidentes com gás de cozinha, utilizando o sensor de gás MQ-2, quando os nível de gás ultrapassar o nível aceitável acionar o exaustor.
 
 ![](./figuras/fluxograma_cozinha.png)
 
@@ -24,21 +24,21 @@ A premissa do projeto é construir o protótipo de uma residência automatizada,
 
 ### Tecnologias do Projeto:
 
-|  Componentes Eletrônicos                           |
-| -------------------------------------------------- |
-| Placa MEGA 2560 R3 + Fonte + Cabo USB para Arduino |
-| Sensor de Umidade e Temperatura DHT11 |
-| Sensor de presença e movimento PIR |
-| Sensor de gás MQ-2 inflamável e fumaça |
-| Micro Servo SG92R 9g TowerPro |
-| Módulo Sensor de Umidade/Nível Água Chuva |
-| Módulo Relé 5 V e um Canal |
-| Sensor ultrasônico HC-SR04 |
-| Módulo Matriz de LED 8×8 com MAX7219 |
-| Buzzer passivo |
-| Display LCD 16×2 I2C Backlight Azul |
-| Cooler |
-| Válvula solenóide ou Mini Bomba D'água Submersiva |
+|  Componentes Eletrônicos                           | Quantidade |
+| -------------------------------------------------- | ---------- |
+| Placa MEGA 2560 R3 + Fonte + Cabo USB para Arduino | 1 |
+| Sensor de Umidade e Temperatura DHT11 | 1 |
+| Sensor de presença e movimento PIR | 1 |
+| Sensor de gás MQ-2 inflamável e fumaça | 1 |
+| Micro Servo SG92R 9g TowerPro | 1 |
+| Módulo Sensor de Umidade/Nível Água Chuva | 1 |
+| Módulo Relé 5 V e um Canal | 2 |
+| Sensor ultrasônico HC-SR04 | 1 |
+| Módulo Matriz de LED 8×8 com MAX7219 | 1 |
+| Buzzer passivo | 1 |
+| Display LCD 16×2 I2C Backlight Azul | 1 |
+| Cooler | 2 |
+| Válvula solenóide ou Mini Bomba D'água Submersiva | 1 |
 
 
 
