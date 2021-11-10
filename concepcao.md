@@ -12,13 +12,13 @@ O projeto consiste na construção de um sistema residencial automatizado. Utili
 
 ![](./figuras/fluxograma_jardim.png)
 
-3. Realizar um sistema de prevenção a acidentes com gás de cozinha, utilizando o sensor de gás MQ-2, quando os nível de gás ultrapassar o nível aceitável acionar o exaustor.
+3. Realizar um sistema de prevenção a acidentes com gás de cozinha, utilizando o sensor de gás MQ-2, quando os nível de gás ultrapassar o nível aceitável acionar o exaustor, desligando o mesmo somente quando o nível voltar ao normal.
 
 ![](./figuras/fluxograma_cozinha.png)
 
 4. Apresentar os dados dos sensores no LCD.
 
-5. Utilizar o sensor de temperatura na sala de estar e exibir o valor da temperatura na matriz de LED. 
+5. Utilizar o sensor de temperatura na sala de estar para acionar o ventilador, deixando a temperatura do ambiente sempre em 26 °C. Exibir o valor da temperatura na matriz de LED. 
 
 6. Realizar todos os controles de maneira remota.
 
