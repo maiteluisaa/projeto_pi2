@@ -4,7 +4,7 @@ O projeto consiste na construção de uma residência automatizada, realizando o
 
 ### Requisitos:
 
-1. Realizar o controle de acesso à residência, utilizando o sensor ultrasônico HC-SR04 e o sensor de presença PIR para identificar a presença de carros e pessoas, o buzzer será ativado simulando uma campainha.
+1. Realizar o controle de acesso à residência, utilizando o sensor ultrasônico HC-SR04 e o sensor de presença PIR para identificar a presença de carros e pessoas, o buzzer será utilizado como campainha.
 
 ![](./figuras/fluxograma_areaexterna.png)
 
