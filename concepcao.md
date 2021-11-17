@@ -14,7 +14,7 @@ O projeto consiste na construção de uma residência automatizada, realizando o
 
 4. Apresentar os dados dos sensores no LCD.
 
-5. Utilizar o sensor de temperatura na sala de estar para acionar o ventilador, deixando a temperatura do ambiente sempre em 26 °C. Exibir o valor da temperatura na matriz de LED. 
+5. Utilizar o sensor de temperatura na sala de estar para acionar o ventilador, deixando a temperatura do ambiente sempre em 23 °C. Exibir o valor da temperatura na matriz de LED. 
 
 6. Realizar todos os controles de maneira remota.
 
