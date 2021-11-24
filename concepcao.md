@@ -34,7 +34,7 @@ O projeto consiste na construção de uma residência automatizada, realizando o
 | Buzzer passivo |      1     |
 | Display LCD 16×2 I2C Backlight Azul |      1     |
 | Cooler |      2     |
-| Válvula solenóide ou Mini Bomba D'água Submersiva |      1     |
+| Mini Bomba D'água Submersiva |      1     |
 
 
 
