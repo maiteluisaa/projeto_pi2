@@ -15,5 +15,5 @@ Planta baixa da residência:
 | Módulo Matriz de LED 8×8 com MAX7219 |      Sala    |
 | Buzzer passivo |      Sala     |
 | Display LCD 16×2 I2C Backlight Azul |      Sala     |
-| Cooler |      Cozinha     |
+| Cooler |      Cozinha e Sala     |
 | Mini Bomba D'água Submersiva |      Área Externa (Jardim)     |
