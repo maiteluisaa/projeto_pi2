@@ -14,6 +14,6 @@ Planta baixa da residência:
 | Sensor ultrasônico HC-SR04 |      Portão da Garagem       |
 | Módulo Matriz de LED 8×8 com MAX7219 |      Sala    |
 | Buzzer passivo |      Sala     |
-| Display LCD 16×2 I2C Backlight Azul |      1     |
+| Display LCD 16×2 I2C Backlight Azul |      Sala     |
 | Cooler |      Cozinha     |
 | Mini Bomba D'água Submersiva |      Área Externa (Jardim)     |
