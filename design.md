@@ -4,7 +4,7 @@ Planta baixa da residência:
 
 ![](./figuras/NOVAplantabaixa.png)
 
-|  Componentes Eletrônicos                           | Cômodo     |
+|  Componentes Eletrônicos                           | Cômodos     |
 | -------------------------------------------------- | ---------- |
 | Sensor de Umidade e Temperatura DHT11 |      Área Externa (Jardim)    |
 | Sensor de presença e movimento PIR |      Área Externa (Porta da Frente)     |
