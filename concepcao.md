@@ -1,4 +1,4 @@
-# Concepção do Projeto
+# Concepção
 
 O projeto consiste na construção de uma residência automatizada, realizando o controle e monitoramento dos sistemas residenciais, apresentando os dados de maneira simples para o usuário final. Tendo como objetivo utilizar tecnologias de baixo custo, buscando a acessibilidade à maior parte da população.
 
