@@ -33,7 +33,7 @@ O projeto consiste na construção de uma residência automatizada, realizando o
 | Módulo Matriz de LED 8×8 com MAX7219 |      1     |
 | Buzzer passivo |      1     |
 | Display LCD 16×2 I2C Backlight Azul |      1     |
-| Cooler |      2     |
+| Cooler |      1     |
 | Mini Bomba D'água Submersiva |      1     |
 
 
