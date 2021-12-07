@@ -17,3 +17,7 @@ Planta baixa da residência:
 | Display LCD 16×2 I2C Backlight Azul |      Sala     |
 | Cooler |      Cozinha     |
 | Mini Bomba D'água Submersiva |      Área Externa (Jardim)     |
+
+Esquemático:
+
+![](./figuras/scheme.png)
