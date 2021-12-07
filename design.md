@@ -4,6 +4,8 @@ Planta baixa da residência:
 
 ![](./figuras/NOVAplantabaixa.png)
 
+Na tabela abaixo é listada a localização de cada sensor e atuador:
+
 |  Componentes Eletrônicos                           | Cômodos     |
 | -------------------------------------------------- | ---------- |
 | Sensor de Umidade e Temperatura DHT11 |      Área Externa (Jardim)    |
