@@ -2,7 +2,7 @@
 
 O obejtivo desta etapa é apresentar a planta baixa da residência e a disposição dos componentes na mesma.
 
-Planta baixa da residência:
+### Planta baixa da residência:
 
 ![](./figuras/NOVAplantabaixa.png)
 
@@ -22,6 +22,6 @@ Na tabela abaixo é listada a localização de cada sensor e atuador:
 | Cooler |      Cozinha     |
 | Mini Bomba D'água Submersiva |      Área Externa (Jardim)     |
 
-Esquemático:
+### Esquemático:
 
 ![](./figuras/scheme.png)
