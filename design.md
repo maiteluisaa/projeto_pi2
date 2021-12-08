@@ -1,5 +1,7 @@
 # Design
 
+O obejtivo desta etapa é apresentar a planta baixa da residência e a disposição dos componentes na mesma.
+
 Planta baixa da residência:
 
 ![](./figuras/NOVAplantabaixa.png)
