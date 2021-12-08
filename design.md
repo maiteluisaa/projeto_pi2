@@ -6,7 +6,7 @@ O obejtivo desta etapa é apresentar a planta baixa da residência e a disposiç
 
 ![](./figuras/NOVAplantabaixa.png)
 
-Na tabela abaixo é listada a localização de cada sensor e atuador de acordo com a  - [Concepção](./concepcao.md):
+Na tabela abaixo é listada a localização de cada sensor e atuador de acordo com a [Concepção do Projeto](./concepcao.md):
 
 |  Componentes Eletrônicos                           | Cômodos     |
 | -------------------------------------------------- | ---------- |
