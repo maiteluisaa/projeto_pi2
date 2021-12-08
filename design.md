@@ -8,7 +8,7 @@ Na tabela abaixo é listada a localização de cada sensor e atuador:
 
 |  Componentes Eletrônicos                           | Cômodos     |
 | -------------------------------------------------- | ---------- |
-| Sensor de Umidade e Temperatura DHT11 |      Área Externa (Jardim)    |
+| Sensor de Umidade e Temperatura DHT11 |      Cozinha   |
 | Sensor de presença e movimento PIR |      Área Externa (Porta da Frente)     |
 | Sensor de gás MQ-2 inflamável e fumaça |      Cozinha     |
 | Micro Servo SG92R 9g TowerPro |     Portão da Garagem    |
