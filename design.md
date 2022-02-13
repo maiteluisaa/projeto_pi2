@@ -24,4 +24,7 @@ Na tabela abaixo é listada a localização de cada sensor e atuador de acordo c
 
 ### Esquemático:
 
-![](./figuras/scheme.png)
+![](./figuras/sketch.png)
+
+Caso queira olhar com detalhes, clique no link abaixo:
+[Sketch](./Sketch PI2_bb.pdf):
