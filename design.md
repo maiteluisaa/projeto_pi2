@@ -8,23 +8,23 @@ O obejtivo desta etapa é apresentar a planta baixa da residência e a disposiç
 
 Na tabela abaixo é listada a localização de cada sensor e atuador de acordo com a [Concepção do Projeto](./concepcao.md):
 
-|  Componentes Eletrônicos                           | Cômodos     |
+|  Componentes Eletrônicos                           | Cômodos     | Função |
 | -------------------------------------------------- | ---------- |
-| Sensor de Umidade e Temperatura DHT11 |      Cozinha   |
-| Sensor de presença e movimento PIR |      Área Externa (Porta da Frente)     |
-| Sensor de gás MQ-2 inflamável e fumaça |      Cozinha     |
-| Micro Servo SG92R 9g TowerPro |     Portão da Garagem    |
-| Módulo Sensor de Umidade/Nível Água Chuva |      Área Externa (Jardim)     |
-| Sensor ultrasônico HC-SR04 |      Portão da Garagem       |
-| Módulo Matriz de LED 8×8 com MAX7219 |      Cozinha    |
-| Buzzer passivo |      Sala     |
-| Display LCD 16×2 I2C Backlight Azul |      Sala     |
-| Cooler |      Cozinha     |
-| Mini Bomba D'água Submersiva |      Área Externa (Jardim)     |
+| Sensor de Umidade e Temperatura DHT11 |      Cozinha   | 
+| Sensor de presença e movimento PIR |      Área Externa (Porta da Frente)     | Irá auxiliar no processo de automatização do portão. |
+| Sensor de gás MQ-2 inflamável e fumaça |      Cozinha     | 
+| Micro Servo SG92R 9g TowerPro |     Portão da Garagem    | Motor do portão. |
+| Módulo Sensor de Umidade/Nível Água Chuva |      Área Externa (Jardim)     | Irá auxiliar no processo de rega das plantas. |
+| Sensor ultrasônico HC-SR04 |      Portão da Garagem       | Irá auxiliar no processo de automatização do portão. |
+| Módulo Matriz de LED 8×8 com MAX7219 |      Cozinha    | Irá exibir o nível de gás (Baixo - B, Médio - M, Alto - A). |
+| Buzzer passivo |      Sala     | O buzzer passivo irá simular uma campainha. |
+| Display LCD 16×2 I2C Backlight Azul |      Sala     | O display irá exibir informações pertinentes dos sensores do sistema. |
+| Cooler |      Cozinha     | O cooler atuará como exaustor quando os nivel de gás de fumaça exceder o limite permitido. |
+| Mini Bomba D'água Submersiva |      Área Externa (Jardim)     | A mini bomba regará o jardim de acordo com o nível de umidade/chuva. |
 
 ### Esquemático:
 
-![](./figuras/sketch.png)
+![](./figuras/_sketch.png)
 
 Caso queira olhar com detalhes, clique no link abaixo:
 [Sketch](./sketch/Sketch.pdf)
