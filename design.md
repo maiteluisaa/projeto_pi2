@@ -16,10 +16,10 @@ Na tabela abaixo é listada a localização de cada sensor e atuador de acordo c
 | Micro Servo SG92R 9g TowerPro |     Portão da Garagem    | Motor do portão. |
 | Módulo Sensor de Umidade/Nível Água Chuva |      Área Externa (Jardim)     | Irá auxiliar no processo de rega das plantas. |
 | Sensor ultrasônico HC-SR04 |      Portão da Garagem       | Irá auxiliar no processo de automatização do portão. |
-| Módulo Matriz de LED 8×8 com MAX7219 |      Cozinha    | Irá exibir a temperatura do ambiente. |
+| Módulo Matriz de LED 8×8 com MAX7219 |      Cozinha    | Na matriz de LED será exibido a temperatura do ambiente, regulada para 23°C. |
 | Buzzer passivo |      Sala     | O buzzer passivo irá simular uma campainha. |
 | Display LCD 16×2 I2C Backlight Azul |      Sala     | O display irá exibir informações pertinentes dos sensores do sistema. |
-| Cooler |      Cozinha     | Ventilador para regular a temperatura da cozinha. |
+| Cooler |      Cozinha     | Irá atuar como ventilador para regular a temperatura da cozinha e exaustor para o sistema de prevenção de acidente doméstico com gás de cozinha. |
 | Mini Bomba D'água Submersiva |      Área Externa (Jardim)     | A mini bomba regará o jardim de acordo com o nível de umidade/chuva. |
 
 ### Esquemático:
