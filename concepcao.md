@@ -13,10 +13,8 @@ O projeto consiste na construção de uma residência automatizada, realizando o
 3. Realizar um sistema de prevenção a acidentes com gás de cozinha, utilizando o sensor de gás MQ-2. Quando o nível de gás ultrapassar o nível aceitável acionar o exaustor, desligando o mesmo somente quando o nível voltar ao normal.
 
 4. Apresentar os dados dos sensores no LCD.
-
-5. Utilizar o sensor de temperatura na cozinha para acionar o ventilador, deixando a temperatura do ambiente sempre em 23°C. Exibir o valor da temperatura na matriz de LED. 
-
-6. Realizar todos os controles de maneira remota.
+ 
+5. Realizar todos os controles de maneira remota.
 
 ### Tecnologias do Projeto:
 
