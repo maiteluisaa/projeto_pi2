@@ -8,13 +8,13 @@ O projeto consiste na construção de uma residência automatizada, realizando o
 
 ![](./figuras/fluxograma_areaexterna.png)
 
-2. Realizar o controle de irrigação do jardim, utilizando o sensor de umidade / nível da água da chuva para monitorar o solo. Quando o solo estiver seco acionar a mini-bomba por alguns segundos.
+2. Realizar o controle de irrigação do jardim, utilizando o sensor YL-69 para monitorar o solo. Quando a umidade do solo estiver menor que 30% acionar a mini-bomba.
 
 3. Realizar um sistema de prevenção a acidentes com gás de cozinha, utilizando o sensor de gás MQ-2. Quando o nível de gás ultrapassar o nível aceitável acionar o exaustor, desligando o mesmo somente quando o nível voltar ao normal.
 
-4. Apresentar os dados dos sensores no LCD.
+4. Apresentar os dados de temperatura e umidade externa no LCD.
  
-5. Realizar todos os controles de maneira remota.
+5. O sistema deve ser plug-in, ou seja, automático.
 
 ### Tecnologias do Projeto:
 
@@ -33,6 +33,8 @@ O projeto consiste na construção de uma residência automatizada, realizando o
 | Display LCD 16×2 I2C Backlight Azul |      1     |
 | Cooler |      1     |
 | Mini Bomba D'água Submersiva |      1     |
+| Sensor YL-69 | 1 |
+
 
 
 
