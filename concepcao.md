@@ -16,7 +16,7 @@ O projeto consiste na construção de uma residência automatizada, realizando o
 
 4. Apresentar os dados de temperatura e umidade externa e nível de água no LCD.
  
-5. O sistema deve ser plug-in, ou seja, automático.
+5. Os comandos devem ser realizados remotamente, via PC.
 
 ### Tecnologias do Projeto:
 
