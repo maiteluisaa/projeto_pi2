@@ -12,8 +12,8 @@ Este projeto tem como objetivo realizar a automatização residencial em um prot
 
  - [Concepção](./concepcao.md)
   - [Design/Projeto](./design.md)
-  - [Implementação](.implementacao/implementacao.md)
-  - [Operação](.operacao/operacao.md)
+  - [Implementação](./implementacao/implementacao.md)
+  - [Operação](./operacao/operacao.md)
 
 ## Referências
 
