@@ -12,7 +12,9 @@ O projeto consiste na construção de uma residência automatizada, realizando o
 
 3. Realizar um sistema de prevenção a acidentes com gás de cozinha, utilizando o sensor de gás MQ-2. Quando o nível de gás ultrapassar o nível aceitável acionar o exaustor, desligando o mesmo somente quando o nível voltar ao normal.
 
-4. Apresentar os dados de temperatura e umidade externa no LCD.
+5. Usar o sensor de nível d'água para medir o reservatório de água da minibomba. 
+
+4. Apresentar os dados de temperatura e umidade externa e nível de água no LCD.
  
 5. O sistema deve ser plug-in, ou seja, automático.
 
@@ -34,8 +36,3 @@ O projeto consiste na construção de uma residência automatizada, realizando o
 | Cooler |      1     |
 | Mini Bomba D'água Submersiva |      1     |
 | Sensor YL-69 | 1 |
-
-
-
-
-
