@@ -14,8 +14,8 @@ Tanto nesta etapa do projeto quanto na etapa de implementação, percebeu-se que
 
 - Quando detectada presença na porta da frente, a campainha é acionada (buzzer).
 
-![](./figuras/WhatsApp Image 2022-03-08 at 19.40.01 (1).jpeg)
+![](./figuras/maquete.png)
 
-![](./figuras/WhatsApp Image 2022-03-08 at 19.40.01 (2).jpeg)
+![](./figuras/maquetee.png)
 
-![](./figuras/WhatsApp Image 2022-03-08 at 19.40.01.jpeg)
+![](./figuras/jardim.png)
