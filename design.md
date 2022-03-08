@@ -24,6 +24,4 @@ Na tabela abaixo é listada a localização de cada sensor e atuador de acordo c
 
 ### Esquemático:
 
-![](./figuras/_sketch.png)
-
-Caso queira olhar com detalhes, vá para [Sketch](./sketch/Sketch.pdf).
+Para olhar o sketch do projeto, vá para [Sketch](./sketch/Sketch.pdf).
