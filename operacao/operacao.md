@@ -13,3 +13,9 @@ Tanto nesta etapa do projeto quanto na etapa de implementação, percebeu-se que
 - Leitura da umidade e temperatura do ambiente, mostrando os dados no LCD.
 
 - Quando detectada presença na porta da frente, a campainha é acionada (buzzer).
+
+![](./figuras/WhatsApp Image 2022-03-08 at 19.40.01 (1).jpeg)
+
+![](./figuras/WhatsApp Image 2022-03-08 at 19.40.01 (2).jpeg)
+
+![](./figuras/WhatsApp Image 2022-03-08 at 19.40.01.jpeg)
