@@ -1,3 +1,3 @@
 ## Implementação
 
-Nesta pasta os códigos de teste de alguns sensores utilizados foram alocados.
+Para validar o funcionamento dos sensores e atuadores foram implementados códigos simples, os códigos foram alocados nesta pasta.
