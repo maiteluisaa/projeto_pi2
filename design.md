@@ -4,7 +4,7 @@ O obejtivo desta etapa é apresentar a planta baixa da residência e a disposiç
 
 ### Planta baixa da residência:
 
-![](./figuras/NOVAplantabaixa.png)
+![](https://github.com/maiteluisaa/projeto_pi2/blob/main/figuras/plantacomentada.png)
 
 Na tabela abaixo é listada a localização de cada sensor e atuador de acordo com a [Concepção do Projeto](./concepcao.md):
 
