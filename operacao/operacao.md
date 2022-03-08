@@ -16,9 +16,9 @@ Tanto nesta etapa do projeto quanto na etapa de implementação, percebeu-se que
 
 # Maquete
 
-![Maquete](https://github.com/maiteluisaa/projeto_pi2/blob/main/figuras/maquete1.png)
+![Maquete](https://github.com/maiteluisaa/projeto_pi2/blob/main/figuras/maquete.png)
 
-![Maquete e servomotor](https://github.com/maiteluisaa/projeto_pi2/blob/main/figuras/maquete2.png)
+![Maquete e servomotor](https://github.com/maiteluisaa/projeto_pi2/blob/main/figuras/maquetee.png)
 
 # Funções Futuras
 
