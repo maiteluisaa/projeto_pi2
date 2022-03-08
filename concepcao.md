@@ -32,5 +32,6 @@ O projeto consiste na construção de uma residência automatizada, realizando o
 | Display LCD 16×2 I2C Backlight Azul |      1     |
 | Cooler |      1     |
 | Módulo de fonte de alimentação HW-131 | 1 | 
+| Higrômetro YL-69 | 1 |
 
 
