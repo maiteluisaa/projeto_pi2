@@ -28,7 +28,7 @@ Para o sistema de irrigação, planeja-se medir o nível do reservatório da bom
 
 # Vídeo
 
-Acesse os links abaixo para checar o funcionamento:
+Acesse os links abaixo para checar o funcionamento do projeto:
 
 https://www.youtube.com/watch?v=k62mpUQfJKQ
 
