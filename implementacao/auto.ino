@@ -30,7 +30,7 @@ int pos=0; // Posição
 
 
 Ultrasonic ultrasonic(DISTT, DISTE);
-float distcm=20.0;
+float distcm=30.0;
 bool pir=0;
 bool buzzer=0;
 
@@ -104,6 +104,8 @@ void loop() {
   GasDetector(mq2);
   float h = dht.readHumidity();
   float t = dht.readTemperature();
+  Serial.print("dist: ");
+  Serial.println(distcm); 
   mostrar_LCD (h, t);
   portao(pir, distcm);
   //Regar(h);
