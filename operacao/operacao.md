@@ -16,15 +16,15 @@ Tanto nesta etapa do projeto quanto na etapa de implementação, percebeu-se que
 
 # Maquete
 
-![](./figuras/maquete1.PNG)
+![Maquete](./figuras/maquete1.PNG)
 
-![](./figuras/maquete2.PNG)
+![Maquete e servomotor](./figuras/maquete2.PNG)
 
 # Funções Futuras
 
 Para o sistema de irrigação, planeja-se medir o nível do reservatório da bomba d'água com o sensor de nível de água. A regra de irrigação será baseada na umidade do solo, que será medida através do sensor YL-69, quando a umidade do solo estiver menor que 30%, o relé da bomba d'água será acionado e só será desligado quando a umidade passar de 30%.
 
-![](./figuras/regar.PNG)
+![Sistema de Irrigação](./figuras/regar.PNG)
 
 # Vídeo
 
