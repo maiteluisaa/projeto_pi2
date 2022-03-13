@@ -36,4 +36,4 @@ https://youtu.be/ZnO91Lebzdc
 
 # Sketch Atualizada
 
-Acessar em: [Sketch](./sketch/Untitled Sketch_bb.pdf).
+Acessar em: [Sketch](https://github.com/maiteluisaa/projeto_pi2/blob/main/sketch/Untitled%20Sketch_bb.pdf).
