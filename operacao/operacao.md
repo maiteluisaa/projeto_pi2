@@ -33,3 +33,7 @@ Acesse os links abaixo para checar o funcionamento do projeto:
 https://www.youtube.com/watch?v=k62mpUQfJKQ
 
 https://youtu.be/ZnO91Lebzdc
+
+# Sketch Atualizada
+
+Acessar em: [Sketch](./sketch/Untitled Sketch_bb.pdf).
